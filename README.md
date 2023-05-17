@@ -1,3 +1,8 @@
+# This is a fork
+
+This is a fork to update depency settings to make sure it works with Laravel 9+
+
+Please use original repository to future updates and maintenance: https://github.com/asantibanez/livewire-calendar
 # Livewire Calendar
 
 This package allows you to build a Livewire monthly calendar grid to show events for each day. Events can be loaded 
